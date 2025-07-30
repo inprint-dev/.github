@@ -1,5 +1,4 @@
 <h2 align="center"> Welcome to inprint.dev </h2>
----
 
 <p align="center"><b>About us:</b></p>
 <p align="center">
